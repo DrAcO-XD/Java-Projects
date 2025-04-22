@@ -1,2 +1,2 @@
-# Java-Projects
-This is where am i making and doing java projects through my coding world :) !
+# Coding-Projects
+This is where am i making and doing coding projects through my coding world :) !
